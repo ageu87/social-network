@@ -1,2 +1,2 @@
-# social-network
-Created new social network
+# Project GYM
+Created new project for gym´s
